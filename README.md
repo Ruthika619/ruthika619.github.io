@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Ruthika Thorat
-Aspiring Data & Finance Analyst | Google Certified | Power BI • Excel • SQL
 
 I'm an aspiring **Data & Finance Analyst** with a passion for turning data into actionable insights.
 
