@@ -1,46 +1,69 @@
+👋 Hi, I'm Ruthika Thorat
 
-# 👋 Hi, I'm Ruthika Thorat
+I'm an aspiring Finance & Data Analyst with a passion for turning numbers into insights and ensuring accurate financial reporting.
 
-I'm an aspiring **Data & Finance Analyst** with a passion for turning data into actionable insights.
+📊 I specialize in accounting, financial data analysis, and reporting using tools like QuickBooks, Excel, Power BI, and SQL. With a background in banking and customer-facing roles, I bring both analytical thinking and practical problem-solving skills.
 
-📊 I specialize in working with business and financial data using tools like **Power BI**, **Excel**, and **SQL**. With a background in banking and customer-facing roles, I bring both analytical thinking and real-world problem-solving skills.
-
-🎓 Google Data Analytics Certified  
+🎓 Google Data Analytics Certified
+🎓 Fundamentals of Accounting (Alison)
+🎓 Pursuing ACCA (Association of Chartered Certified Accountants)
 💼 Postgraduate Diploma in Banking & Finance
 
----
+🛠️ Skills
 
-## 🛠️ Skills
-- Power BI (Dashboards, DAX, Data Modeling)
-- Excel (Pivot Tables, Charts, VLOOKUP)
-- Data Cleaning & Analysis
-- Financial Data Interpretation
-- Banking & Customer Relationship Knowledge
-- Tally ERP9 (Basic), QuickBooks (Basic)
+Accounting & Finance
 
----
+Bookkeeping (Journal Entries, Ledger, Trial Balance)
 
-## 📂 Featured Projects
+Financial Statements (P&L, Balance Sheet, Cash Flow)
 
-### 💰 [UAE Government Pricing Analysis](https://github.com/ruthika619/uae-government-pricing-analysis)
-Analyzed government service pricing trends and visualized cost clusters using Power BI.  
-![Repo size](https://img.shields.io/github/repo-size/ruthika619/uae-government-pricing-analysis)
-![Stars](https://img.shields.io/github/stars/ruthika619/uae-government-pricing-analysis?style=social)
+VAT Compliance (UAE VAT Reporting)
 
----
+Payroll, AP/AR Management
 
-### 🚲 [Cyclistic Case Study (Google Capstone)](https://github.com/ruthika619/cyclistic-case-study)
-Cleaned and explored 5M+ bike ride records to uncover rider trends using Excel.  
-![Repo size](https://img.shields.io/github/repo-size/ruthika619/cyclistic-case-study)
-![Stars](https://img.shields.io/github/stars/ruthika619/cyclistic-case-study?style=social)
+QuickBooks (Intermediate), Tally ERP9 (Basic)
 
----
+Data & Analytics
 
-## 🌐 Portfolio & Contact
-- 🔗 [My Portfolio Website](https://ruthika619.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/ruthika-thorat-4059531a0)
-- 📧 ruthika1433@gmail.com
+Power BI (Dashboards, DAX, Data Modeling)
 
----
+Excel (Pivot Tables, Charts, VLOOKUP, Automation)
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=ruthika619.ruthika619)
+SQL (Data Cleaning & Queries)
+
+Data Cleaning & Visualization
+
+Financial Data Interpretation
+
+📂 Featured Projects
+📘 Full-Year Accounting Simulation – QuickBooks (UAE VAT Compliant)
+
+Simulated the complete accounting cycle of a UAE-based SME using QuickBooks.
+
+Recorded 12 months of business transactions (sales, purchases, expenses, payroll, adjustments).
+
+Generated VAT-compliant reports, Trial Balance, and full Financial Statements.
+
+Demonstrated practical skills in bookkeeping, reporting, and compliance.
+
+💰 UAE Government Pricing Analysis
+
+Analyzed government service pricing trends and visualized cost clusters using Power BI.
+
+
+
+
+🚲 Cyclistic Case Study (Google Capstone)
+
+Cleaned and explored 5M+ bike ride records to uncover rider trends using Excel.
+
+
+
+
+🌐 Portfolio & Contact
+
+🔗 My Portfolio Website
+
+💼 LinkedIn
+
+📧 ruthika1433@gmail.com
