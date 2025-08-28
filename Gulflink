@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Financial Reports</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f5f5f5;
+        padding: 20px;
+    }
+    .card {
+        background-color: #fff;
+        border-radius: 12px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        padding: 20px;
+        margin-bottom: 25px;
+    }
+    .card h4 {
+        margin-top: 0;
+        margin-bottom: 10px;
+        font-size: 1.2rem;
+    }
+    .card p {
+        margin-bottom: 15px;
+        line-height: 1.5;
+    }
+    .card a.view-pdf {
+        display: inline-block;
+        padding: 0.6rem 1.2rem;
+        background-color: #7c3aed;
+        color: #fff;
+        border-radius: 20px;
+        text-decoration: none;
+        font-weight: 600;
+    }
+    .card a.view-pdf:hover {
+        background-color: #5a1abf;
+    }
+</style>
+</head>
+<body>
+
+<div class="card">
+    <h4>📊 Balance Sheet</h4>
+    <p>Comprehensive balance sheet showing assets, liabilities, and equity positions.</p>
+    <a class="view-pdf" href="Reports/BalanceSheet%20(1).pdf" target="_blank">📸 View Screenshots / PDF</a>
+</div>
+
+<div class="card">
+    <h4>💹 Profit & Loss Statement</h4>
+    <p>Detailed profit and loss report showing revenue, expenses, and net income.</p>
+    <a class="view-pdf" href="Reports/ProfitandLoss%20(1).pdf" target="_blank">📸 View Screenshots / PDF</a>
+</div>
+
+<div class="card">
+    <h4>💵 Cash Flow Statement</h4>
+    <p>Cash flow report detailing operational, investing, and financing cash activities.</p>
+    <a class="view-pdf" href="Reports/StatementofCashFlows.pdf" target="_blank">📸 View Screenshots / PDF</a>
+</div>
+
+<div class="card">
+    <h4>📋 Trial Balance</h4>
+    <p>Trial balance report summarizing all account balances at a specific point in time.</p>
+    <a class="view-pdf" href="Reports/TrialBalance%20(1).pdf" target="_blank">📸 View Screenshots / PDF</a>
+</div>
+
+<div class="card">
+    <h4>🧾 Accounts Receivable Ageing</h4>
+    <p>Summary of outstanding customer balances and ageing analysis.</p>
+    <a class="view-pdf" href="Reports/A_RAgeingSummaryReport.pdf" target="_blank">📸 View Screenshots / PDF</a>
+</div>
+
+<div class="card">
+    <h4>📌 Accounts Payable Ageing</h4>
+    <p>Summary of outstanding supplier balances and ageing analysis.</p>
+    <a class="view-pdf" href="Reports/A_PAgeingSummaryReport.pdf" target="_blank">📸 View Screenshots / PDF</a>
+</div>
+
+<div class="card">
+    <h4>👥 Customer Sales Summary</h4>
+    <p>Overview of sales per customer with total revenue and trends.</p>
+    <a class="view-pdf" href="Reports/SalesbyCustomerSummary.pdf" target="_blank">📸 View Screenshots / PDF</a>
+</div>
+
+<div class="card">
+    <h4>🏢 Supplier Expense Summary</h4>
+    <p>Analysis of expenses per supplier showing total spending patterns.</p>
+    <a class="view-pdf" href="Reports/ExpensesbySupplierSummary.pdf" target="_blank">📸 View Screenshots / PDF</a>
+</div>
+
+<div class="card">
+    <h4>💸 VAT Detail Report</h4>
+    <p>Detailed report of VAT collected and paid across transactions.</p>
+    <a class="view-pdf" href="Reports/VATDetailReport.pdf" target="_blank">📸 View Screenshots / PDF</a>
+</div>
+
+</body>
+</html>
